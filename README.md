@@ -1,5 +1,8 @@
 >Fork至hoxu/gitstats
 
+## 更改 2025.2.11
+1. Authors列表中增加mail信息
+
 ## 更改
 修改并适配了Python3
 1. 修改print -> print()
